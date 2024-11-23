@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanand-binil&label=Profile%20views&color=0e75b6&style=flat" alt="devanand-binil" /> </p
 
-![Snake animation](https://raw.githubusercontent.com/{Devanand-Binil}/{Devanand-Binil}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Devanand-Binil/Devanand-Binil/output/github-contribution-grid-snake-dark.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
