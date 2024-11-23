@@ -66,7 +66,41 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+
 ---
+
+## 🔖 Featured Repository
+
+<div align="center">
+    <!-- SoundState Repo -->
+    <a href="https://github.com/Devanand-Binil/G4G #gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Devanand-Binil&repo=G4G&theme=github_dark#gh-dark-mode-only" alt="SoundState Repo">
+    </a>
+    <a href="https://github.com/weepotty/soundstate#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=vue#gh-light-mode-only" alt="SoundState Repo">
+    </a>
+    <!-- LeetCode Java Repo -->
+    <a href="https://github.com/cheehwatang/leetcode-java#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=github_dark#gh-dark-mode-only" alt="LeetCode Java Repo">
+    </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=leetcode-java&theme=vue#gh-light-mode-only" alt="LeetCode Java Repo">
+    </a>
+    <!-- Github Readme Daily Quotes Repo -->
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=github-readme-daily-quotes&theme=github_dark#gh-dark-mode-only" alt="Github Readme Daily Quotes Repo">
+    </a>
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-light-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=github-readme-daily-quotes&theme=vue#gh-light-mode-only" alt="Github Readme Daily Quotes Repo">
+    </a>
+</div>
+
+</br>
+
 [![](https://visitcount.itsvg.in/api?id=Devanand-Binil&icon=7&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ <img align="center" src="https://i.pinimg.com/originals/f8/18/3c/f8183c36fec5e1756f3c9875da245362.gif" >
+      
+
+
