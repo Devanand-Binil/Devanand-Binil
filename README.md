@@ -5,13 +5,31 @@
        alt="Motivational Sales Quotes" 
        style="max-width: 100%; height: auto;">
 </div>
-<h1 align="center">Hi 👋, I'm DEVANAND BINIL</h1>
+<h1 align="center">Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>, I'm DEVANAND BINIL </h1>
 </div>
-<h3>🎓 Computer Science Undergrad at NIT Calicut</h3>
-<h3>🌐 Passionate Web Developer, building user-friendly and scalable applications</h3>
-<h3>🚀 Active member of the Google Developer Student Club (GDSC) at NITC</h3>
-<h3>💡 Enthusiast in technology, innovation, and entrepreneurship</h3>
-<h3>🤝 Always open to collaborations and exciting new projects!</h3>
+<h3><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
+</picture> Computer Science Undergrad at NIT Calicut</h3>
+<h3><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.gif" alt="🪩" width="32" height="32">
+</picture> Passionate Web Developer, building user-friendly and scalable applications</h3>
+<h3><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
+</picture> Active member of the Google Developer Student Club (GDSC) at NITC</h3>
+<h3><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32">
+</picture> Enthusiast in technology, innovation, and entrepreneurship</h3>
+<h3><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.gif" alt="🎲" width="32" height="32">
+</picture> Always open to collaborations and exciting new projects!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanand-binil&label=Profile%20views&color=0e75b6&style=flat" alt="devanand-binil" /> </p
 
