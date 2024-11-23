@@ -74,8 +74,8 @@
 
 <div align="center">
     <!-- SoundState Repo -->
-    <a href="https://github.com/Devanand-Binil/G4G-160#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Devanand-Binil&repo=G4G&theme=github_dark#gh-dark-mode-only" alt="SoundState Repo">
+    <a href="https://github.com/Devanand-Binil/GfG-160#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Devanand-Binil&repo=GfG-160&theme=github_dark#gh-dark-mode-only" alt="SoundState Repo">
     </a>
     <a href="https://github.com/weepotty/soundstate#gh-light-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=vue#gh-light-mode-only" alt="SoundState Repo">
