@@ -76,12 +76,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32">
-</picture> Random Dev Quote
-</h3>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔖 Featured Repository
