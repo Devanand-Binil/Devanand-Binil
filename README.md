@@ -38,7 +38,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devanand-binil-3932aa29b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanand-binil-3932aa29b" height="30" width="40" /></a>
-<a href="https://instagram.com/d.e.v.a.n._." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d.e.v.a.n_._" height="30" width="40" /></a>
+<a href="https://instagram.com/d.e.v.a.n_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d.e.v.a.n_._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
