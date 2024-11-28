@@ -1,9 +1,9 @@
 
-<div align="center">
-  <img 
+<div  align="center">
+ <kbd> <img 
        src="https://www.revechat.com/wp-content/uploads/2023/12/motivational-sales-quotes.webp" 
        alt="Motivational Sales Quotes" 
-       style="max-width: 100%; height: auto;">
+       style="max-width: 100%; height: auto;"> </kbd>  
 </div>
 <h1 align="center">Hi <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
