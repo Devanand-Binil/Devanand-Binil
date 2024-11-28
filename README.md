@@ -88,11 +88,12 @@
       <a href="https://github.com/Devanand-Binil/LeetCode-Solutions#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Devanand-Binil&repo=LeetCode-Solutions&theme=github_dark#gh-dark-mode-only">
     </a>
-  <!--
-    <a href="https://github.com/weepotty/soundstate#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=vue#gh-light-mode-only" alt="SoundState Repo">
-    </a> -->
-    <!-- Github Readme Daily Quotes Repo -->
+          <a href="https://github.com/Devanand-Binil/React_Animated_Portfolio#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Devanand-Binil&repo=React_Animated_Portfolio&theme=github_dark#gh-dark-mode-only">
+    </a>
+          <a href="https://github.com/Devanand-Binil/url-shortner#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Devanand-Binil&repo=url-shortner&theme=github_dark#gh-dark-mode-only">
+    </a>
 
 </div>
 
