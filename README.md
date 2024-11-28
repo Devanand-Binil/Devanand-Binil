@@ -68,7 +68,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32a_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32a_fe0f/512.gif" alt="🌪" width="32" height="32">
 </picture> GitHub Stats:</h2>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Devanand-Binil&show_icons=true&theme=onedark">
+  <img align="center" width="440px" src="https://github-readme-stats.vercel.app/api?username=Devanand-Binil&show_icons=true&theme=onedark">
   <img width="440px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Devanand-Binil&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Devanand-Binil&theme=github">
   <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=Devanand-Binil&theme=onedark" />
