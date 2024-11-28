@@ -93,12 +93,7 @@
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=weepotty&repo=soundstate&theme=vue#gh-light-mode-only" alt="SoundState Repo">
     </a> -->
     <!-- Github Readme Daily Quotes Repo -->
-    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=github-readme-daily-quotes&theme=github_dark#gh-dark-mode-only" alt="Github Readme Daily Quotes Repo">
-    </a>
-    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-light-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=cheehwatang&repo=github-readme-daily-quotes&theme=vue#gh-light-mode-only" alt="Github Readme Daily Quotes Repo">
-    </a>
+
 </div>
 
 </br>
