@@ -85,7 +85,7 @@
     <a href="https://github.com/Devanand-Binil/GfG-160#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Devanand-Binil&repo=GfG-160&theme=github_dark#gh-dark-mode-only">
     </a>
-      <a href="https://github.com/Devanand-Binil/GfG-160#gh-dark-mode-only">
+      <a href="https://github.com/Devanand-Binil/LeetCode-Solutions#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Devanand-Binil&repo=LeetCode-Solutions&theme=github_dark#gh-dark-mode-only">
     </a>
   <!--
