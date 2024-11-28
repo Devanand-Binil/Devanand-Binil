@@ -63,7 +63,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanand-Binil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
 
-<div>
+<div align="center">
   <h2> <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32a_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32a_fe0f/512.gif" alt="🌪" width="32" height="32">
