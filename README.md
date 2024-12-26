@@ -95,6 +95,12 @@
           <a href="https://github.com/Devanand-Binil/url-shortner#gh-dark-mode-only">
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Devanand-Binil&repo=url-shortner&theme=github_dark#gh-dark-mode-only">
     </a>
+    <a href="https://github.com/Devanand-Binil/Sudoku-Game#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Devanand-Binil&repo=Sudoku-Game&theme=github_dark#gh-dark-mode-only">
+    </a>
+        <a href="https://github.com/Devanand-Binil/Real-time-Messaging-app#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Devanand-Binil&repo=Real-time-Messaging-app&theme=github_dark#gh-dark-mode-only">
+    </a>
 
 </div>
 
